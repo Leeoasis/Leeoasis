@@ -1,6 +1,5 @@
 <h1 align="center">Hello there! 👋</h1>
 
-### Hi There 👋
 <p align="center">
   I'm Leslie, a full-stack developer with a passion for creating beautiful, user-friendly applications. When I'm not coding, you can find me hiking in the mountains or experimenting with new recipes in the kitchen.
 </p>
