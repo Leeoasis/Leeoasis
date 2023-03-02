@@ -28,7 +28,7 @@ A simple to-do list application built using React Native and AsyncStorage. Users
 ## Skills
 
 - <img src="./images/javascript-logo.svg" width="16"> JavaScript (ES6+)
-- <img src="https://commons.wikimedia.org/wiki/File:Sass_Logo_Color.svg" width="16"> SASS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="16"> SASS
 - <img src="./icons/node-dot-js.svg" width="16"> Node.js and Express.js
 - <img src="./icons/mongodb.svg" width="16"> MongoDB and Mongoose
 - <img src="./icons/firebase.svg" width="16"> Firebase Authentication and Firestore
