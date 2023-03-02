@@ -25,28 +25,16 @@ A simple to-do list application built using webpack and pure javascript. Users c
 
 ![To-Do List App screenshot](./images/todo.png)
 
-## Skills
-
-- <img src="./images/javascript-logo.svg" width="16"> JavaScript (ES6+)
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="16"> SASS
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" width="16"> Webpack
-- <img src="[./icons/html5.svg](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)" width="16"> HTML and <img src="[./icons/css3.svg](https://upload.wikimedia.org/wikipedia/commons/3/3c/CSS_text_representation_%28square%29.png)" width="16"> CSS
-- <img src="./images/bootstrap-4.svg" width="16"> Bootstrap
 
 ## Education
 
-### Bachelor of Science in Computer Science
+### FULL STACK WEB DEVELOPMENT
 
-**University of ABC** • 2017 - 2021
+**Microvese** • 2022 - 2023
 
-- Completed coursework in algorithms, data structures, software engineering, and web development
+- Completed coursework in algorithms, data structures, and web development
 - Participated in several coding competitions and hackathons
-- Completed an internship as a web developer at a local startup
-
-## Contact
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mary-dev) or send me an email at mary.dev@gmail.com.
-
+- Mentored new students at Microverse
 
 ### Project 2: Weather Forecast App
 
@@ -56,22 +44,20 @@ A mobile app that provides accurate weather forecasts for cities around the worl
 
 ## Skills
 
-- JavaScript (ES6+)
-- React and React Native
-- Node.js and Express.js
-- MongoDB and PostgreSQL
-- Git and GitHub
-- HTML and CSS
+- <img src="./images/javascript-logo.svg" width="16"> JavaScript (ES6+)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="16"> SASS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" width="16"> Webpack
+- <img src="[./icons/html5.svg](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)" width="16"> HTML and <img src="[./icons/css3.svg](https://upload.wikimedia.org/wikipedia/commons/3/3c/CSS_text_representation_%28square%29.png)" width="16"> CSS
+- <img src="./images/bootstrap-4.svg" width="16"> Bootstrap
 
 ## Fun Facts
 
-- I've visited 10 countries and counting!
-- I'm an avid crossword solver and compete in local tournaments.
-- I volunteer at a local animal shelter on weekends.
+- I'm multi instrumentalist.
+- I'm a sudoku and chess enthusiast.
 
 ## Contact Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/leslie-gudo/) or send me an email at jane.dev@gmail.com. Let's connect!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/leslie-gudo/) or send me an email at leeegd99@gmail.com.
 
 
 
