@@ -40,8 +40,8 @@ A simple to-do list application built using webpack and pure javascript. Users c
 
 - <img src="./images/javascript-logo.svg" width="16"> JavaScript (ES6+)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="16"> SASS
-- <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" width="16"> Webpack
-- <img src="[[./icons/html5.svg](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/3/33/Hypertext_markup_language.png))" width="16"> HTML and <img src="[[./icons/css3.svg](https://upload.wikimedia.org/wikipedia/commons/3/3c/CSS_text_representation_%28square%29.png)](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)" width="16"> CSS
+- <img src="./images/webpack-icon.svg" width="16"> Webpack
+- <img src="./images/html-1.svg" width="16"> HTML and <img src="./images/css-3.svg" width="16"> CSS
 - <img src="./images/bootstrap-4.svg" width="16"> Bootstrap
 
 ## Fun Facts
