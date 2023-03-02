@@ -21,7 +21,7 @@ A platform for creating and taking online courses, built using React, Node.js, a
 
 ### Project 2: To-Do List App
 
-A simple to-do list application built using React Native and AsyncStorage. Users can add tasks, mark them as completed, and delete them.
+A simple to-do list application built using webpack and pure javascript. Users can add tasks, mark them as completed, and delete them.
 
 ![To-Do List App screenshot](./images/todo.png)
 
@@ -29,11 +29,9 @@ A simple to-do list application built using React Native and AsyncStorage. Users
 
 - <img src="./images/javascript-logo.svg" width="16"> JavaScript (ES6+)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="16"> SASS
-- <img src="./icons/node-dot-js.svg" width="16"> Node.js and Express.js
-- <img src="./icons/mongodb.svg" width="16"> MongoDB and Mongoose
-- <img src="./icons/firebase.svg" width="16"> Firebase Authentication and Firestore
-- <img src="./icons/html5.svg" width="16"> HTML and <img src="./icons/css3.svg" width="16"> CSS
-- <img src="./icons/bootstrap.svg" width="16"> Bootstrap
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Webpack.svg" width="16"> Webpack
+- <img src="[./icons/html5.svg](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)" width="16"> HTML and <img src="[./icons/css3.svg](https://upload.wikimedia.org/wikipedia/commons/3/3c/CSS_text_representation_%28square%29.png)" width="16"> CSS
+- <img src="./images/bootstrap-4.svg" width="16"> Bootstrap
 
 ## Education
 
