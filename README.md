@@ -23,7 +23,7 @@ Awesome-books is a website that basically displays a list of the user favourite 
 
 A simple to-do list application built using webpack and pure javascript. Users can add tasks, mark them as completed, and delete them.
 
-![To-Do List App screenshot](./images/todo.png)
+![To-Do List App screenshot](./images/Screenshot%20(14).png)
 
 
 ## Education
