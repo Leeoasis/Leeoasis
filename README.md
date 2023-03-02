@@ -36,12 +36,6 @@ A simple to-do list application built using webpack and pure javascript. Users c
 - Participated in several coding competitions and hackathons
 - Mentored new students at Microverse
 
-### Project 2: Weather Forecast App
-
-A mobile app that provides accurate weather forecasts for cities around the world, built using React Native and OpenWeatherMap API. Users can view current weather conditions, hourly and daily forecasts, and save favorite locations.
-
-![Weather Forecast App screenshot](./images/weather-app.png)
-
 ## Skills
 
 - <img src="./images/javascript-logo.svg" width="16"> JavaScript (ES6+)
