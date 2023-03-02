@@ -1,35 +1,55 @@
-<!--
-**Leeoasis/Leeoasis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello there! 👋</h1>
 
-Here are some ideas to get you started:
+### Hi There 👋
+<p align="center">
+  I'm Leslie, a full-stack developer with a passion for creating beautiful, user-friendly applications. When I'm not coding, you can find me hiking in the mountains or experimenting with new recipes in the kitchen.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there! 👋
-
-I'm Leslie, a software developer with a passion for building scalable and user-friendly applications. When I'm not coding, you can find me exploring new hiking trails or trying out new recipes in the kitchen.
-
-## Table of Contents
-
-- [Projects](#projects)
-- [Skills](#skills)
-- [Fun Facts](#fun-facts)
-- [Contact Me](#contact-me)
+<p align="center">
+  <a href="#projects">Projects</a> •
+  <a href="#skills">Skills</a> •
+  <a href="#education">Education</a> •
+  <a href="#contact">Contact</a>
+</p>
 
 ## Projects
 
-### Project 1: Task Manager App
+### Project 1: E-Learning Platform
 
-A web application for managing tasks and to-do lists, built using React and Node.js. Users can create and prioritize tasks, set reminders, and view their progress over time.
+A platform for creating and taking online courses, built using React, Node.js, and MongoDB. Instructors can create courses, add lessons and quizzes, and view student progress, while students can enroll in courses and track their progress.
 
-![Task Manager App screenshot](./images/task-manager.png)
+![E-Learning Platform screenshot](./images/elearning.png)
+
+### Project 2: To-Do List App
+
+A simple to-do list application built using React Native and AsyncStorage. Users can add tasks, mark them as completed, and delete them.
+
+![To-Do List App screenshot](./images/todo.png)
+
+## Skills
+
+- <img src="./icons/javascript.svg" width="16"> JavaScript (ES6+)
+- <img src="./icons/react.svg" width="16"> React and React Native
+- <img src="./icons/node-dot-js.svg" width="16"> Node.js and Express.js
+- <img src="./icons/mongodb.svg" width="16"> MongoDB and Mongoose
+- <img src="./icons/firebase.svg" width="16"> Firebase Authentication and Firestore
+- <img src="./icons/html5.svg" width="16"> HTML and <img src="./icons/css3.svg" width="16"> CSS
+- <img src="./icons/bootstrap.svg" width="16"> Bootstrap
+
+## Education
+
+### Bachelor of Science in Computer Science
+
+**University of ABC** • 2017 - 2021
+
+- Completed coursework in algorithms, data structures, software engineering, and web development
+- Participated in several coding competitions and hackathons
+- Completed an internship as a web developer at a local startup
+
+## Contact
+
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mary-dev) or send me an email at mary.dev@gmail.com.
+
 
 ### Project 2: Weather Forecast App
 
