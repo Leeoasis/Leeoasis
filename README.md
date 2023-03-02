@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi there! 👋
 
-I'm Jane, a software developer with a passion for building scalable and user-friendly applications. When I'm not coding, you can find me exploring new hiking trails or trying out new recipes in the kitchen.
+I'm Leslie, a software developer with a passion for building scalable and user-friendly applications. When I'm not coding, you can find me exploring new hiking trails or trying out new recipes in the kitchen.
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ A mobile app that provides accurate weather forecasts for cities around the worl
 
 ## Contact Me
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jane-dev) or send me an email at jane.dev@gmail.com. Let's connect!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/leslie-gudo/) or send me an email at jane.dev@gmail.com. Let's connect!
 
 
 
