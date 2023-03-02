@@ -13,11 +13,11 @@
 
 ## Projects
 
-### Project 1: E-Learning Platform
+### Project 1: AWesome-books
 
-A platform for creating and taking online courses, built using React, Node.js, and MongoDB. Instructors can create courses, add lessons and quizzes, and view student progress, while students can enroll in courses and track their progress.
+Awesome-books is a website that basically displays a list of the user favourite books. It has a function to add new books or remove any unwanted books from the list.
 
-![E-Learning Platform screenshot](./images/elearning.png)
+![Awesome books screenshot](./images/Screenshot%20(13).png)
 
 ### Project 2: To-Do List App
 
