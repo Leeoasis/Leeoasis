@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋</h1>
 
 <p align="center">
-  I'm Leslie, a full-stack developer with a passion for creating beautiful, user-friendly applications. When I'm not coding, you can find me hiking in the mountains or experimenting with new recipes in the kitchen.
+  I'm Leslie, a full-stack developer with a passion for creating beautiful, user-friendly applications. When I'm not coding, you can find me hiking in the mountains or experimenting with whatever music intsrument I lay my hands on.
 </p>
 
 <p align="center">
