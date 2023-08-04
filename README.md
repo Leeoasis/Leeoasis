@@ -17,7 +17,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@gudo_leslie-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gudo_leslie)](https://twitter.com/@gudo_leslie)
 </div>
 
-<h2 align="center">My stats📊</h2>
+<h2>My stats📊</h2>
 
 | | |
 | :---: | :---: |
