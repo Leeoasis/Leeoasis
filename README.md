@@ -17,20 +17,13 @@
 [![Twitter Badge](https://img.shields.io/badge/-@gudo_leslie-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gudo_leslie)](https://twitter.com/@gudo_leslie)
 </div>
 
-## Projects
+<h2>My stats📊</h2>
 
-### Project 1: AWesome-books
-
-Awesome-books is a website that basically displays a list of the user favourite books. It has a function to add new books or remove any unwanted books from the list.
-
-![Awesome books screenshot](./images/Screenshot%20(13).png)
-
-### Project 2: To-Do List App
-
-A simple to-do list application built using webpack and pure javascript. Users can add tasks, mark them as completed, and delete them.
-
-![To-Do List App screenshot](./images/Screenshot%20(14).png)
-
+| | |
+| :---: | :---: |
+| ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Leeoasis&show_icons=true&theme=tokyonight) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Leeoasis&theme=tokyonight) | 
+| [![Leslie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edubew&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeoasis&show_icons=true&theme=tokyonight&layout=compact) |
+</br>
 
 ## Education
 
