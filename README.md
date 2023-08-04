@@ -4,12 +4,18 @@
   I'm Leslie, a full-stack developer with a passion for creating beautiful, user-friendly applications. When I'm not coding, you can find me hiking in the mountains or experimenting with whatever music intsrument I lay my hands on.
 </p>
 
-<p align="center">
-  <a href="#projects">Projects</a> •
-  <a href="#skills">Skills</a> •
-  <a href="#education">Education</a> •
-  <a href="#contact">Contact</a>
-</p>
+ <div align="center" width="50">
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+</div>
+<p align="center"><em>Remote Full-Stack developer ready for adventure</em></p>
+
+<br>
+<div align="center">
+  
+### 📫 Reach me at:<br>
+[![Linkedin Badge](https://img.shields.io/badge/-Leslie%20Gudo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/leslie-gudo](https://www.linkedin.com/in/leslie-gudo))](https://www.linkedin.com/in/leslie-gudo)
+[![Twitter Badge](https://img.shields.io/badge/-@gudo_leslie-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gudo_leslie)](https://twitter.com/@gudo_leslie)
+</div>
 
 ## Projects
 
