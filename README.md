@@ -10,12 +10,6 @@
 <p align="center"><em>Remote Full-Stack developer ready for adventure</em></p>
 
 <br>
-<div align="center">
-  
-### 📫 Reach me at:<br>
-[![Linkedin Badge](https://img.shields.io/badge/-Leslie%20Gudo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/leslie-gudo](https://www.linkedin.com/in/leslie-gudo))](https://www.linkedin.com/in/leslie-gudo)
-[![Twitter Badge](https://img.shields.io/badge/-@gudo_leslie-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gudo_leslie)](https://twitter.com/@gudo_leslie)
-</div>
 
 <h2>My stats📊</h2>
 
@@ -47,12 +41,14 @@
 
 - I'm multi instrumentalist.
 - I'm a sudoku and chess enthusiast.
+</br>
 
+<div align="center">
 📫 Reach me at:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Leslie%20Gudo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leslie-gudo)](https://www.linkedin.com/in/leslie-gudo)
 [![Twitter Badge](https://img.shields.io/badge/-@gudo_leslie-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gudo_leslie)](https://twitter.com/@gudo_leslie)
 [![Email Badge](https://img.shields.io/badge/Email-leeegd99%40gmail.com-red?style=flat-square&logo=gmail)](mailto:leeegd99@gmail.com)
-
+</div>
 
 
 
