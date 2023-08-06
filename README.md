@@ -21,6 +21,14 @@
 - Participated in several coding competitions and hackathons
 - Mentored new students at Microverse
 
+  <h2>My stats📊</h2>
+
+| | |
+| :---: | :---: |
+| ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Leeoasis&show_icons=true&theme=tokyonight) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Leeoasis&theme=tokyonight) | 
+| [![Leslie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=edubew&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeoasis&show_icons=true&theme=tokyonight&layout=compact) |
+</br>
+
 <div align="start">
 <h2>Tech & Tools Preference🛠</h2>
 <img src = "https://img.shields.io/badge/-HTML5-EB6424?style=flat&logo=html5&logoColor=white" width="75">
@@ -50,7 +58,7 @@
 <img src="./images/capstone.png" alt="html" width="100"/>
 </div>
 
-📫 Reach me at:<br>
+ ## 📫Reach me at:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-Leslie%20Gudo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leslie-gudo)](https://www.linkedin.com/in/leslie-gudo)
 [![Twitter Badge](https://img.shields.io/badge/-@gudo_leslie-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/gudo_leslie)](https://twitter.com/@gudo_leslie)
 [![Email Badge](https://img.shields.io/badge/Email-leeegd99%40gmail.com-red?style=flat-square&logo=gmail)](mailto:leeegd99@gmail.com)
