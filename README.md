@@ -21,7 +21,7 @@
 - Participated in several coding competitions and hackathons
 - Mentored new students at Microverse
 
-  <h2>My stats📊</h2>
+<h2>My stats📊</h2>
 
 | | |
 | :---: | :---: |
