@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KUBAHO3/Kubaho3" alt="Kubaho3">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<h1>Hello there👌</h1>
 
 <p align="center">
   I'm Leslie, a full-stack developer with a passion for creating beautiful, user-friendly applications. When I'm not coding, you can find me hiking in the mountains or experimenting with whatever music intsrument I lay my hands on.
