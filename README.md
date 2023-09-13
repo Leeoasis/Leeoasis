@@ -26,7 +26,7 @@
 | | |
 | :---: | :---: |
 | ![stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Leeoasis&show_icons=true&theme=tokyonight) | ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Leeoasis&theme=tokyonight) | 
-| [![Leslie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Lesliegd&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeoasis&show_icons=true&theme=tokyonight&layout=compact) |
+| [![Leslie's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Leeoasis&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeoasis&show_icons=true&theme=tokyonight&layout=compact) |
 </br>
 
 <div align="start">
